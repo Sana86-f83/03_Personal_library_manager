@@ -1,0 +1,32 @@
+[
+    {
+        "title": "python crash course",
+        "author": "Eric Matthes",
+        "year": "2019",
+        "genre": "Programming",
+        "read": true
+    },
+    {
+        "title": "atomic habits",
+        "author": "James Clear",
+        "year": "2019",
+        "genre": "Self Help",
+        "read": true
+    },
+    {
+        "title": "deep work",
+        "author": "Cal Newport",
+        "year": "2016",
+        "genre": "Productivity",
+        "read": true
+    },
+    {
+        "title": "artificial intelligence",
+        "author": "Melanie Mithell",
+        "year": "2019",
+        "genre": "AI & Tecnology",
+        "read": true
+    }
+]
+
+day17 work is code k baray mai desacription do with emojis and characters
